@@ -1,8 +1,13 @@
 
 body {
   font-family: 'Overpass Mono';
-  background-color:#A5C4A8;
+  background-color:#C1DBC4;
   color: white;
   font-weight: bold;
   text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
 }

@@ -24,12 +24,10 @@ a:visited {
 
 a:hover {
   color: #D6BBBA;
-  text-decoration: underline;
 }
 
 a:active {
   color: #D6BAD5;
-  text-decoration: underline;
 }
 
 #home {
@@ -37,7 +35,6 @@ a:active {
 }
 
 #home a {
-  color: white;
   font-size: 30px;
 }
 

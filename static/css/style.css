@@ -1,7 +1,7 @@
 body {
   font-family: "Overpass Mono";
   color: white;
-  background-color: #A5C4A8
+  background-color: #BAD6BD
 }
 
 h1 {
@@ -10,6 +10,26 @@ h1 {
 
 h2 {
   font-size: 30px;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #D6BBBA;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #D6BAD5;
+  text-decoration: underline;
 }
 
 #home {
@@ -38,10 +58,9 @@ h2 {
 
 #writing a {
   text-align: left;
-  color: white;
 }
 
 #writing li {
   font-size: 20px;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }

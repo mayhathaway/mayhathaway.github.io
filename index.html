@@ -25,12 +25,28 @@
 
 </head>
 
-<body style="background-color:#CAE3CC">
+<body style="background-color:#CAE3CC;">
   <div id="home">
   <h1>May Hathaway</h1>
     <img src="static/img/MayHathaway.jpg">
     <br><br>
-    <p> <a href="about">student.</a> &emsp;&emsp; <a href="writing">writer.</a> &emsp;&emsp; <a href="cs">programmer.</a> </p>
+    <p style="font-size:30px"> <a href="about">student.</a> &emsp;&emsp;
+      <a onclick="writOptions()" href="#">writer.</a> &emsp;&emsp; <a href="cs">programmer.</a> </p>
+      <br>
+      <div id="writoptions" style="display:none;">
+        <a href="pubs">SELECTED PUBLICATIONS</a>&emsp;&emsp;&emsp;&emsp;&emsp;<a href="honexp">HONORS AND EXPERIENCES</a>
+      </div>
+      <br>
 </div>
+<script>
+function writOptions() {
+  var x = document.getElementById("writoptions");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
 </body>
 </html>

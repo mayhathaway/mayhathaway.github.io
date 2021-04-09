@@ -1,7 +1,7 @@
 body {
   font-family: "Overpass Mono";
   color: white;
-  background-color: #BAD6BD
+  background-color: #AECFB1;
 }
 
 h1 {
@@ -23,11 +23,11 @@ a:visited {
 }
 
 a:hover {
-  color: #D6BBBA;
+  color: #CFAEAE;
 }
 
 a:active {
-  color: #D6BAD5;
+  color: #AFAECF;
 }
 
 #home {

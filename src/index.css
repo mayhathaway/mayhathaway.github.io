@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  /* Background color */
+  --bg-color: #fcfce0;
+  
+  /* Text color */
+  --text-color: #1a0db8;
+  
+  /* Text color with opacity */
+  --text-color-90: rgba(26, 13, 184, 0.9);
+  --text-color-80: rgba(26, 13, 184, 0.8);
+  --text-color-70: rgba(26, 13, 184, 0.7);
+  
+  /* Border colors */
+  --border-color-20: rgba(26, 13, 184, 0.2);
+  --border-color-15: rgba(26, 13, 184, 0.15);
+}
+
+body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: -0.01em;
+  line-height: 1.6;
+}

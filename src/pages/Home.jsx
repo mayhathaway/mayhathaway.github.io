@@ -23,10 +23,10 @@ function Home() {
             </div>
           </div>
           <div className="nav-boxes">
-            <a href="/projects" className="nav-box">
+            <a href="/#/projects" className="nav-box">
               PROJECTS
             </a>
-            <a href="/writing" className="nav-box">
+            <a href="/#/writing" className="nav-box">
               WRITING
             </a>
           </div>

@@ -10,7 +10,7 @@ function Writing() {
 
           <h2>Criticism</h2>
             <p>
-              <strong>Sight & Sound 2022</strong>, <a href="https://mayhathaway.substack.com/p/sight-and-sound-2022">Substack</a> (2022)<br/>
+              <strong><i>Sight & Sound</i> 2022</strong>, <a href="https://mayhathaway.substack.com/p/sight-and-sound-2022">Substack</a> (2022)<br/>
             </p>
             <br/>
 

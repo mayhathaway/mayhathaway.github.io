@@ -8,6 +8,12 @@ function Writing() {
           <h1 className="page-title">Writing</h1>
           <div className="page-content">
 
+          <h2>Criticism</h2>
+            <p>
+              <strong>Sight & Sound 2022</strong>, <a href="https://mayhathaway.substack.com/p/sight-and-sound-2022">Substack</a> (2022)<br/>
+            </p>
+            <br/>
+
           <h2>Fiction</h2>
             <p>
               <strong>How to Wear White to a Wedding</strong>, <a href="https://okaydonkeymag.com/2021/02/05/how-to-wear-white-to-a-wedding-by-may-hathaway/">Okay Donkey Magazine</a> (2021)<br/>

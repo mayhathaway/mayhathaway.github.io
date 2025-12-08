@@ -1,0 +1,27 @@
+.writing {
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+  }
+  
+  .writing .page-title {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--text-color);
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    -webkit-text-stroke: 1px var(--text-color);
+    margin-bottom: 1rem;
+  }
+  
+  @media (min-width: 768px) {
+    .writing .page-title {
+      font-size: 3rem
+    }
+  }
+  
+  .page-content {
+    padding-top: 2rem;
+    border-top: 1px solid var(--border-color-15);
+    color: var(--text-color-80);
+  }

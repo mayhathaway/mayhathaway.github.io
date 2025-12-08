@@ -17,8 +17,8 @@ function Writing() {
             
             <h2>Creative Nonfiction</h2>
             <p>
-              <strong>Meritocracy</strong>, <a href="https://vagabondcitylit.com/2020/12/14/meritocracy-by-may-hathaway/">Vagabond City Lit</a> (2020)<br/>
               <strong>Mother Tongue</strong>, <a href="https://sinetheta.net/17.html">Sine Theta Magazine</a> (2020)<br/>
+              <strong>Meritocracy</strong>, <a href="https://vagabondcitylit.com/2020/12/14/meritocracy-by-may-hathaway/">Vagabond City Lit</a> (2020)<br/>
             </p>
             <br/>
 
@@ -26,9 +26,6 @@ function Writing() {
             <p>
               Scholastic Art & Writing Awards: National Gold Medal, Best-in-Grade in Personal Essay/Memoir (2021)<br/>
               National YoungArts Honorable Mention Winner in Creative Nonfiction (2021)<br/>
-              One Teen Story (Ages 16-17) Runner-Up (2021)<br/>
-              Ringling College of Art & Design "Storytellers of Tomorrow" Contest: Honorable Mention in Creative Nonfiction (2021)<br/>
-              Lumiere Review Writing Contest: Prose Finalist (2021)<br/>
               Brooklyn Public Library's 2021 Teen Writing Contest: First Prize Winner in High School Prose (2021)<br/>
               Scholastic Art & Writing Awards: National Gold Medal in Personal Essay/Memoir (2020)
             </p>
